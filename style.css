@@ -1,0 +1,12 @@
+#list {
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.info_block {
+    border: 3px white dashed;
+    height: 400px;
+    width: 400px;
+}
